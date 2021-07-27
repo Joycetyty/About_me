@@ -4,7 +4,7 @@
 * Education : 東吳大學-資訊管理學系
 * Location : 台北市
 * E-Mail : joyce6543211@gmail.com
-* Mobile : 0923332817
+* Mobile : 0985922788
 
 # Professional Tools
 * HTML/CSS
